@@ -1,3 +1,5 @@
+![image](https://github.com/Mohnish-Sonkusale/Tyres-Detection-Using-YoloV5/assets/153887010/b698b238-bd9d-435b-80e8-7554059a0953)
+
 # Project structure
 ## Input
 The folder for input files
