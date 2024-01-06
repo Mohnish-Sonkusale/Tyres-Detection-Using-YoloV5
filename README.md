@@ -25,3 +25,7 @@ Annotated 1500 images in Roboflow online tool
 
 Train - Valid - Test split after augmentation of train data
 100 - 80 - 20 images correspondingly
+
+## Result
+![PR_curve](https://github.com/Mohnish-Sonkusale/Tyres-Detection-Using-YoloV5/assets/153887010/df6d97e0-1a22-4d3b-96d7-b345481d1cfd)
+
