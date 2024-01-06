@@ -7,6 +7,7 @@ Destination folder for the output of tire_detector.py script
 Find in this folder the examples of Detector's output and enjoy
 
 ## model
+Official model : https://github.com/ultralytics/yolov5
 The folder with model weights and config files. Numbers (1000/2000/3000..) mean the number of learned batches (different stages of training).
 Root directory contains:
 zip file with the dataset
