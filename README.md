@@ -21,7 +21,8 @@ main script tire_detector.py
 Original dataset
 
 ## Annotation
-Annotated 1500 images in Roboflow online tool
+Annotated 120 images in LabelImg Throungh Clone 
+LabelImg : https://github.com/HumanSignal/labelImg.git
 
 Train - Valid - Test split after augmentation of train data
 100 - 80 - 20 images correspondingly
